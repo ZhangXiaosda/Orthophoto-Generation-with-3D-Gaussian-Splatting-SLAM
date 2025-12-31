@@ -3,7 +3,7 @@
 
 ## 🔍 Overview
 
-GS-OrthoSLAM is a real-time, incremental orthomosaic generation system built upon a 3D Gaussian Splatting (3DGS) based SLAM framework.  
+Our method is a real-time, incremental orthomosaic generation system built upon a 3D Gaussian Splatting (3DGS) based SLAM framework.  
 The proposed method enables large-scale, online orthophoto generation from UAV imagery, achieving high orthogonality, sharp building boundaries, and stable visual quality under challenging aerial scenarios.
 
 
