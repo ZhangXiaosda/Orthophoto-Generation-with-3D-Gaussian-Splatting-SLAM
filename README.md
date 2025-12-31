@@ -9,7 +9,7 @@ The proposed method enables large-scale, online orthophoto generation from UAV i
 
 ### Orthomosaic result (Ours)
 <p align="center">
-  <img src="phantom3.png" width="90%">
+  <img src="assets/phantom3.png" width="90%">
 </p>
 
 We will release the source code upon acceptance of the paper.
